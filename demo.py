@@ -2,11 +2,7 @@ import streamlit as st
 from pdf_data import pdfs  # Import the PDF data
 
 # Set Page Configuration
-# st.set_page_config(page_title="PDF Library", layout="wide")
-st.set_page_config(
-    page_title="McMaster Course Outline",
-    layout="wide",
-)
+st.set_page_config(page_title="PDF Library", layout="wide")
 
 # Main Page Filters
 st.header("MEST Course outlines (McMaster University)")
@@ -60,7 +56,7 @@ def filter_pdfs(pdfs, streams, course_types, semesters, search):
     if streams:
         # Map stream options to subcategories
         stream_map = {
-            "Automotive Stream": "Automotive",
+            "Automotive Stream": "Automotive Stream",
             "Automation and Smart Systems": "Automation and Smart Systems",
             "Digital Manufacturing": "Digital Manufacturing",
             "Process Systems Stream": "Process Systems Stream",

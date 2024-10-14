@@ -93,7 +93,7 @@ if not filtered_pdfs:
     st.info("No PDFs match the selected filters.")
 else:
     # Define the number of columns per row
-    cols_per_row = 6
+    cols_per_row = 3
     for i in range(0, len(filtered_pdfs), cols_per_row):
         cols = st.columns(cols_per_row)
         for j, pdf in enumerate(filtered_pdfs[i:i + cols_per_row]):

@@ -7,12 +7,6 @@ st.set_page_config(
     page_title="McMaster Course Outline",
     layout="wide",
     initial_sidebar_state="expanded",
-    theme={
-        "primaryColor": "#1f77b4",
-        "backgroundColor": "#ffffff",  # Set the background to white
-        "secondaryBackgroundColor": "#f0f0f0",
-        "textColor": "#000000"  # Set text color to black
-    }
 )
 
 # Main Page Filters

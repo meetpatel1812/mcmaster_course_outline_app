@@ -65,7 +65,7 @@ pdfs = [
         "category": "Core course",
         "subcategory": "Automotive Stream",
         "semesters": ["Winter"],
-        "file_path": "Course/AUtomotive_stream/Core_Courses/SEP 6AE3_Outline_24a.pdf",
+        "file_path": "Course/Automotive_stream/Core_Courses/SEP 6AE3_Outline_24a.pdf",
         "icon": "📄"
     },
     {
@@ -74,7 +74,7 @@ pdfs = [
         "category": "Core course",
         "subcategory": "Automotive Stream",
         "semesters": ["Fall"],
-        "file_path": "Course/AUtomotive_stream/Core_Courses/SEP 6DV3 Fall 2023 Course Outline.pdf",
+        "file_path": "Course/Automotive_stream/Core_Courses/SEP 6DV3 Fall 2023 Course Outline.pdf",
         "icon": "📄"
     },
     {
@@ -83,7 +83,7 @@ pdfs = [
         "category": "Core course",
         "subcategory": "Automotive Stream",
         "semesters": ["Fall"],
-        "file_path": "Course/AUtomotive_stream/Core_Courses/SEP711_Outline_23c.pdf",
+        "file_path": "Course/Automotive_stream/Core_Courses/SEP711_Outline_23c.pdf",
         "icon": "📄"
     },
     {
@@ -92,7 +92,7 @@ pdfs = [
         "category": "Core course",
         "subcategory": "Automotive Stream",
         "semesters": ["Fall"],
-        "file_path": "Course/AUtomotive_stream/Core_Courses/SEP 722 MECH760_Outline_23c.pdf",
+        "file_path": "Course/Automotive_stream/Core_Courses/SEP 722 MECH760_Outline_23c.pdf",
         "icon": "📄"
     },
     {
@@ -101,7 +101,7 @@ pdfs = [
         "category": "Core course",
         "subcategory": "Automotive Stream",
         "semesters": ["Fall","Winter","Summer"],
-        "file_path": "Course/AUtomotive_stream/Core_Courses/SEP 740 Deep Learning - Summer 2024 - Course Outline.pdf",
+        "file_path": "Course/Automotive_stream/Core_Courses/SEP 740 Deep Learning - Summer 2024 - Course Outline.pdf",
         "icon": "📄"
     },
     {
@@ -110,7 +110,7 @@ pdfs = [
         "category": "Core course",
         "subcategory": "Automotive Stream",
         "semesters": ["Winter"],
-        "file_path": "Course/AUtomotive_stream/Core_Courses/SEP 742 Visual Perception - Winter 2024 - Course Outline.pdf",
+        "file_path": "Course/Automotive_stream/Core_Courses/SEP 742 Visual Perception - Winter 2024 - Course Outline.pdf",
         "icon": "📄"
     },
     {
@@ -119,7 +119,7 @@ pdfs = [
         "category": "Core course",
         "subcategory": "Automotive Stream",
         "semesters": ["Winter"],
-        "file_path": "Course/AUtomotive_stream/Core_Courses/SEP 775 NLP - Winter 2024 - Course Outline.pdf",
+        "file_path": "Course/Automotive_stream/Core_Courses/SEP 775 NLP - Winter 2024 - Course Outline.pdf",
         "icon": "📄"
     },
     {
@@ -128,7 +128,7 @@ pdfs = [
         "category": "Recommended Technical electives",
         "subcategory": "Automotive Stream",
         "semesters": ["Winter","Fall"],
-        "file_path": "Course/AUtomotive_stream/Recommended_technical_electives/SEP 780 Fall 2023 Course Outline rev 1.pdf",
+        "file_path": "Course/Automotive_stream/Recommended_technical_electives/SEP 780 Fall 2023 Course Outline rev 1.pdf",
         "icon": "📄"
     },
      {
@@ -137,7 +137,7 @@ pdfs = [
         "category": "Recommended Technical electives",
         "subcategory": "Automotive Stream",
         "semesters": ["Winter"],
-        "file_path": "Course/AUtomotive_stream/Recommended_technical_electives/SEP 783-W2024 Course Outline-Formal.pdf",
+        "file_path": "Course/Automotive_stream/Recommended_technical_electives/SEP 783-W2024 Course Outline-Formal.pdf",
         "icon": "📄"
     },
     {
@@ -146,7 +146,7 @@ pdfs = [
         "category": "Recommended Technical electives",
         "subcategory": "Automotive Stream",
         "semesters": ["Winter"],
-        "file_path": "Course/AUtomotive_stream/Recommended_technical_electives/SEP 791 (C01) Course Outline.pdf",
+        "file_path": "Course/Automotive_stream/Recommended_technical_electives/SEP 791 (C01) Course Outline.pdf",
         "icon": "📄"
     },
     {
@@ -155,7 +155,7 @@ pdfs = [
         "category": "Cross-Disciplinary Elective Course",
         "subcategory": "Automotive Stream",
         "semesters": ["Fall"],
-        "file_path": "Course/AUtomotive_stream/Cross_Disciplinary/SEP 709outline23.pdf",
+        "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 709outline23.pdf",
         "icon": "📄"
     },
     {
@@ -164,7 +164,7 @@ pdfs = [
         "category": "Cross-Disciplinary Elective Course",
         "subcategory": "Automotive Stream",
         "semesters": ["Winter"],
-        "file_path": "Course/AUtomotive_stream/Cross_Disciplinary/SEP 710 Winter 2024outline revised.pdf",
+        "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 710 Winter 2024outline revised.pdf",
         "icon": "📄"
     },
     {
@@ -173,7 +173,7 @@ pdfs = [
         "category": "Cross-Disciplinary Elective Course",
         "subcategory": "Automotive Stream",
         "semesters": ["Winter","Fall","Summer"],
-        "file_path": "Course/AUtomotive_stream/Cross_Disciplinary/SEP 770 Course Outline (1).pdf",
+        "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 770 Course Outline (1).pdf",
         "icon": "📄"
     },
     {
@@ -182,7 +182,7 @@ pdfs = [
         "category": "Cross-Disciplinary Elective Course",
         "subcategory": "Automotive Stream",
         "semesters": ["Fall"],
-        "file_path": "Course/AUtomotive_stream/Cross_Disciplinary/SEP 705 GREEN ENGINEERINGoutline fall 2023.pdf",
+        "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 705 GREEN ENGINEERINGoutline fall 2023.pdf",
         "icon": "📄"
     },
 

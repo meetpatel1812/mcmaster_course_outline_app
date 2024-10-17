@@ -185,6 +185,8 @@ pdfs = [
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 705 GREEN ENGINEERINGoutline fall 2023.pdf",
         "icon": "📄"
     },
+    
+    
 
 
     # Add more PDFs as needed

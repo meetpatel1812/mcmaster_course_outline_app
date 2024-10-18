@@ -231,5 +231,16 @@ pdfs = [
         ],
         "file_path": "Course/Cross-Disciplinary_Elective_Course/design.pdf",
         "icon": ""
+    },
+    {
+        "name": "meet",
+        "label": "new meet",
+        "category": "Cross-Disciplinary Elective Course",
+        "subcategory": "Automation and Smart Systems",
+        "semesters": [
+            "Summer"
+        ],
+        "file_path": "Course/Cross-Disciplinary_Elective_Course/design.pdf",
+        "icon": ""
     }
 ]

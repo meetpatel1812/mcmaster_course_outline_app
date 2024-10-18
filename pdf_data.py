@@ -220,16 +220,5 @@ pdfs = [
         ],
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 705 GREEN ENGINEERINGoutline fall 2023.pdf",
         "icon": "\ud83d\udcc4"
-    },
-    {
-        "name": "CDa",
-        "label": "meet",
-        "category": "Core course",
-        "subcategory": "Automation and Smart Systems",
-        "semesters": [
-            "Winter"
-        ],
-        "file_path": "Course/Core course/Assignment_1_Meetkumar.pdf",
-        "icon": ""
     }
 ]

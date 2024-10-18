@@ -221,15 +221,4 @@ pdfs = [
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 705 GREEN ENGINEERINGoutline fall 2023.pdf",
         "icon": "\ud83d\udcc4"
     },
-    {
-        "name": "meet2",
-        "label": "meet2",
-        "category": "Required core courses",
-        "subcategory": "Automation and Smart Systems",
-        "semesters": [
-            "Fall"
-        ],
-        "file_path": "Course/Required_core_courses/design.pdf",
-        "icon": ""
-    }
 ]

@@ -221,7 +221,6 @@ pdfs = [
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 705 GREEN ENGINEERINGoutline fall 2023.pdf",
         "icon": "\ud83d\udcc4"
     },
-<<<<<<< HEAD
 
 
     # Add more PDFs as needed
@@ -248,6 +247,3 @@ pdfs = [
     "file_path": "Course/Core course/Assignment_1_Meetkumar.pdf",
     "icon": ""
 },]
-=======
-]
->>>>>>> 8828f91ef9febfc6c47528a11e9378c73bf9f70e

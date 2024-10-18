@@ -202,4 +202,15 @@ pdfs = [
     ],
     "file_path": "Course/Required core courses/Meet_Transcript.pdf",
     "icon": ""
+},
+    {
+    "name": "meet",
+    "label": "meet",
+    "category": "Required core courses",
+    "subcategory": "Automotive Stream",
+    "semesters": [
+        "Fall"
+    ],
+    "file_path": "Course/Required_core_courses/Meet_Transcript.pdf",
+    "icon": ""
 },]

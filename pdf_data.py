@@ -196,17 +196,5 @@ pdfs = [
         ],
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 710 Winter 2024outline revised.pdf",
         "icon": "\ud83d\udcc4"
-    },
-    {
-        "name": "meet",
-        "label": "meet",
-        "category": "Cross-Disciplinary Elective Course",
-        "subcategory": "Automation and Smart Systems",
-        "semesters": [
-            "Fall",
-            "Winter"
-        ],
-        "file_path": "Course/Cross-Disciplinary_Elective_Course/design.pdf",
-        "icon": ""
     }
 ]

@@ -190,4 +190,15 @@ pdfs = [
 
 
     # Add more PDFs as needed
-]
+
+    {
+    "name": "meet",
+    "label": "meet",
+    "category": "Required core courses",
+    "subcategory": "Automation and Smart Systems",
+    "semesters": [
+        "Fall"
+    ],
+    "file_path": "Course/Required_core_courses/design.pdf",
+    "icon": ""
+},]

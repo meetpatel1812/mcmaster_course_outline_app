@@ -209,16 +209,5 @@ pdfs = [
         ],
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 770 Course Outline (1).pdf",
         "icon": "\ud83d\udcc4"
-    },
-    {
-        "name": "SEP 705",
-        "label": "Green Engineering, Sustainability and Public Policy",
-        "category": "Cross-Disciplinary Elective Course",
-        "subcategory": "Automotive Stream",
-        "semesters": [
-            "Fall"
-        ],
-        "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 705 GREEN ENGINEERINGoutline fall 2023.pdf",
-        "icon": "\ud83d\udcc4"
     }
 ]

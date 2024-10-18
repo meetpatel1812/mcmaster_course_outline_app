@@ -206,7 +206,7 @@ pdfs = [
             "Fall",
             "Winter"
         ],
-        "file_path": "Course/Cross-Disciplinary_Elective_Course/E-commerce.pdf",
+        "file_path": "Course/Cross-Disciplinary_Elective_Course/design.pdf",
         "icon": ""
     }
 ]

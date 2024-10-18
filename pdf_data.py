@@ -198,8 +198,8 @@ pdfs = [
         "icon": "\ud83d\udcc4"
     },
     {
-        "name": "meet2",
-        "label": "meet2",
+        "name": "meet3",
+        "label": "meet3",
         "category": "Cross-Disciplinary Elective Course",
         "subcategory": "Automation and Smart Systems",
         "semesters": [

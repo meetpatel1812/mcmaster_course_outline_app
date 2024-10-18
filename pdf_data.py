@@ -220,27 +220,5 @@ pdfs = [
         ],
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 705 GREEN ENGINEERINGoutline fall 2023.pdf",
         "icon": "\ud83d\udcc4"
-    },
-    {
-        "name": "meet",
-        "label": "meet",
-        "category": "Cross-Disciplinary Elective Course",
-        "subcategory": "Automation and Smart Systems",
-        "semesters": [
-            "Fall"
-        ],
-        "file_path": "Course/Cross-Disciplinary_Elective_Course/design.pdf",
-        "icon": ""
-    },
-    {
-        "name": "meet",
-        "label": "new meet",
-        "category": "Cross-Disciplinary Elective Course",
-        "subcategory": "Automation and Smart Systems",
-        "semesters": [
-            "Summer"
-        ],
-        "file_path": "Course/Cross-Disciplinary_Elective_Course/design.pdf",
-        "icon": ""
     }
 ]

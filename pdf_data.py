@@ -201,4 +201,15 @@ pdfs = [
     ],
     "file_path": "Course/Professional Development course/Meet_Transcript.pdf",
     "icon": ""
+},
+    {
+    "name": "meet",
+    "label": "meet2",
+    "category": "Other elective course",
+    "subcategory": "Automation and Smart Systems",
+    "semesters": [
+        "Fall"
+    ],
+    "file_path": "Course/Meet_Transcript.pdf",
+    "icon": ""
 },]

@@ -196,18 +196,5 @@ pdfs = [
         ],
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 710 Winter 2024outline revised.pdf",
         "icon": "\ud83d\udcc4"
-    },
-    {
-        "name": "SEP 770",
-        "label": "Total Sustainability Management",
-        "category": "Cross-Disciplinary Elective Course",
-        "subcategory": "Automotive Stream",
-        "semesters": [
-            "Winter",
-            "Fall",
-            "Summer"
-        ],
-        "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 770 Course Outline (1).pdf",
-        "icon": "\ud83d\udcc4"
     }
 ]

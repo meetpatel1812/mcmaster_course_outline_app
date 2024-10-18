@@ -222,17 +222,6 @@ pdfs = [
         "icon": "\ud83d\udcc4"
     },
     {
-        "name": "meet3",
-        "label": "meet3",
-        "category": "Required core courses",
-        "subcategory": "Automation and Smart Systems",
-        "semesters": [
-            "Fall"
-        ],
-        "file_path": "Course/Required_core_courses/design.pdf",
-        "icon": ""
-    },
-    {
         "name": "meet2",
         "label": "meet2",
         "category": "Required core courses",

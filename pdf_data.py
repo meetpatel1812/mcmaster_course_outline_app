@@ -190,4 +190,15 @@ pdfs = [
 
 
     # Add more PDFs as needed
-]
+
+    {
+    "name": "meet",
+    "label": "meet",
+    "category": "Professional Development course",
+    "subcategory": "Automotive Stream",
+    "semesters": [
+        "Fall"
+    ],
+    "file_path": "Course/Professional Development course/Meet_Transcript.pdf",
+    "icon": ""
+},]

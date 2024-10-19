@@ -40,7 +40,7 @@ with col3:
 
 # Search Bar and Button in a single row with placeholder
 with col4:  
-    search_query = st.text_input("", placeholder="Search for a course")
+    search_query = st.text_input("Search", placeholder="Search for a course", label_visibility="hidden")
 
 with col5:
     st.write("")  # Add some spacing

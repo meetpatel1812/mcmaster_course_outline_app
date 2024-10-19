@@ -196,17 +196,5 @@ pdfs = [
         ],
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 710 Winter 2024outline revised.pdf",
         "icon": "\ud83d\udcc4"
-    },
-    {
-        "name": "meet",
-        "label": "dd",
-        "category": "Professional Development course",
-        "subcategory": "Digital Manufacturing",
-        "semesters": [
-            "Fall",
-            "Winter"
-        ],
-        "file_path": "Course/Professional_Development_course/design.pdf",
-        "icon": ""
     }
 ]

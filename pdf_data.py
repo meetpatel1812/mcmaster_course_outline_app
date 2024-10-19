@@ -196,58 +196,5 @@ pdfs = [
         ],
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 710 Winter 2024outline revised.pdf",
         "icon": "\ud83d\udcc4"
-    },
-    {
-        "name": "SEP 770",
-        "label": "Total Sustainability Management",
-        "category": "Cross-Disciplinary Elective Course",
-        "subcategory": "Automotive Stream",
-        "semesters": [
-            "Winter",
-            "Fall",
-            "Summer"
-        ],
-        "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 770 Course Outline (1).pdf",
-        "icon": "\ud83d\udcc4"
-    },
-    {
-        "name": "SEP 705",
-        "label": "Green Engineering, Sustainability and Public Policy",
-        "category": "Cross-Disciplinary Elective Course",
-        "subcategory": "Automotive Stream",
-        "semesters": [
-            "Fall"
-        ],
-        "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 705 GREEN ENGINEERINGoutline fall 2023.pdf",
-        "icon": "\ud83d\udcc4"
-    },
-<<<<<<< HEAD
-
-
-    # Add more PDFs as needed
-
-    {
-    "name": "CDW",
-    "label": "meet",
-    "category": "Professional Development course",
-    "subcategory": "Automation and Smart Systems",
-    "semesters": [
-        "Winter"
-    ],
-    "file_path": "Course/Professional Development course/Assignment_1_Meetkumar.pdf",
-    "icon": ""
-},
-    {
-    "name": "CDa",
-    "label": "meet",
-    "category": "Core course",
-    "subcategory": "Automation and Smart Systems",
-    "semesters": [
-        "Winter"
-    ],
-    "file_path": "Course/Core course/Assignment_1_Meetkumar.pdf",
-    "icon": ""
-},]
-=======
+    }
 ]
->>>>>>> 8828f91ef9febfc6c47528a11e9378c73bf9f70e

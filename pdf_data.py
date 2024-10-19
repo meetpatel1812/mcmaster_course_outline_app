@@ -196,5 +196,17 @@ pdfs = [
         ],
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 710 Winter 2024outline revised.pdf",
         "icon": "\ud83d\udcc4"
+    },
+    {
+        "name": "meet",
+        "label": "meet2",
+        "category": "Professional Development course",
+        "subcategory": "Automation and Smart Systems",
+        "semesters": [
+            "Fall",
+            "Summer"
+        ],
+        "file_path": "Course/Professional_Development_course/design.pdf",
+        "icon": ""
     }
 ]

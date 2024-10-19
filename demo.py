@@ -109,7 +109,7 @@ def render_user_page():
                     # Render the card with HTML and CSS for styling
                     st.markdown(f"""
                         <div style="padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
-                            <h3 style="color: #007bff; font-size: 20px;">{pdf['icon']} {pdf['name']}</h3>
+                            <h3 style="color: #007bff; font-size: 20px;"> {pdf['name']}</h3>
                             <p style="font-weight: bold; font-size: 16px;">{pdf['label']}</p>
                             <p><strong>Category:</strong> {pdf['category']}</p>
                             <p><strong>Subcategory:</strong> {pdf['subcategory']}</p>

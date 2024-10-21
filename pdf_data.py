@@ -5,12 +5,10 @@ pdfs = [
         "category": "Required core courses",
         "subcategory": "All stream course",
         "semesters": [
-            "Fall",
-            "Winter",
-            "Summer"
+            "Fall"
         ],
-        "file_path": "Course/Required_courses/SEP769 - Fall2023.pdf",
-        "icon": "\ud83d\udcc4"
+        "file_path": "Course/Required_core_courses/SEP769 - Fall2023.pdf",
+        "icon": ""
     },
     {
         "name": "SEP 6TC3",

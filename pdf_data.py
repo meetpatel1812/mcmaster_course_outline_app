@@ -187,17 +187,6 @@ pdfs = [
         "icon": "\ud83d\udcc4"
     },
     {
-        "name": "SEP 710",
-        "label": "International Governance and Environmental Sustainability",
-        "category": "Cross-Disciplinary Elective Course",
-        "subcategory": "Automotive Stream",
-        "semesters": [
-            "Winter"
-        ],
-        "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 710 Winter 2024outline revised.pdf",
-        "icon": "\ud83d\udcc4"
-    },
-    {
         "name": "SEP 800",
         "label": "ML/AI",
         "category": "Required core courses",

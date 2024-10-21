@@ -183,17 +183,5 @@ pdfs = [
         ],
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 709outline23.pdf",
         "icon": "\ud83d\udcc4"
-    },
-    {
-        "name": "SEP 800",
-        "label": "ML/AI",
-        "category": "Required core courses",
-        "subcategory": "Automation and Smart Systems",
-        "semesters": [
-            "Fall",
-            "Winter"
-        ],
-        "file_path": "Course/Required_core_courses/Resume.pdf",
-        "icon": ""
     }
 ]

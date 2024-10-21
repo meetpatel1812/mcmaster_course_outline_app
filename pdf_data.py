@@ -196,5 +196,16 @@ pdfs = [
         ],
         "file_path": "Course/Automotive_stream/Cross_Disciplinary/SEP 710 Winter 2024outline revised.pdf",
         "icon": "\ud83d\udcc4"
+    },
+    {
+        "name": "meet",
+        "label": "meet",
+        "category": "Required core courses",
+        "subcategory": "Digital Manufacturing",
+        "semesters": [
+            "Fall"
+        ],
+        "file_path": "Course/Required_core_courses/Meet_Recommendation_letter.pdf",
+        "icon": ""
     }
 ]
